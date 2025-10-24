@@ -1,5 +1,24 @@
 {
     "id": "kiihbcgvR",
     "name": "aaa",
-    "product": "livechat"
+    "product": "livechat",
+    "blocks": {
+        "authorization": {
+            "clientId": "743a0ac8caea3aa04c2be5f3ab47779e",
+            "type": "server_side_app",
+            "redirectUri": "http://localhost"
+        },
+        "repository": {
+            "provider": "github",
+            "name": "johnhenga/livechat-developer-app-template-saas",
+            "branch": "main"
+        },
+        "widgets": {
+            "wUuA-r2hKD": {
+                "url": "https://www.aaa.com",
+                "placement": "plugin",
+                "initialState": "{\n\"customerDetailsSections\": [\n{\n\"title\": \"Status\",\n\"components\": [\n{\n\"type\": \"label_value\",\n\"data\": {\n\"label\": \"\"\n}\n}\n]\n}\n]\n}"
+            }
+        }
+    }
 }
