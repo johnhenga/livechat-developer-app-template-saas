@@ -1,12 +1,5 @@
 {
-    "id": "ErQr15gDg",
+    "id": "kiihbcgvR",
     "name": "aaa",
-    "product": "livechat",
-    "blocks": {
-        "repository": {
-            "provider": "github",
-            "name": "johnhenga/livechat-developer-app-template-saas",
-            "branch": "main"
-        }
-    }
+    "product": "livechat"
 }
